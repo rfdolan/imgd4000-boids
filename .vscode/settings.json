@@ -1,0 +1,9 @@
+{
+	"files.exclude": {
+		"C:/Users/Raymond/Documents/Unreal Projects/Flocking/.vs": true,
+		"C:/Users/Raymond/Documents/Unreal Projects/Flocking/.vscode": true,
+		"C:/Users/Raymond/Documents/Unreal Projects/Flocking/Content": true,
+		"C:/Users/Raymond/Documents/Unreal Projects/Flocking/Intermediate": true,
+		"C:/Users/Raymond/Documents/Unreal Projects/Flocking/Saved": true
+	}
+}
